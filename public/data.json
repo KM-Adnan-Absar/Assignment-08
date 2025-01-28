@@ -1,0 +1,110 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.ibb.co.com/yPv2PHM/Dell-XPS-13-Plus-in-BD-5.webp",
+      "category": "Computers",
+      "price": "$999",
+      "description": "A high-performance laptop with a sleek design and powerful hardware.",
+      "Specification": [
+        "13.4-inch display",
+        "Intel Core i7",
+        "16GB RAM",
+        "512GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "brand": "Dell",
+      "release_date": "2023-05-15"
+    },
+    {
+      "product_id": 2,
+      "product_title": "MacBook Air",
+      "product_image": "https://i.ibb.co.com/gPfg5MP/A1466-1.webp",
+      "category": "Computers",
+      "price": "$1199",
+      "description": "Apple's ultra-light laptop offering impressive performance and battery life.",
+      "Specification": [
+        "13.3-inch Retina display",
+        "Apple M1 Chip",
+        "8GB RAM",
+        "256GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "brand": "Apple",
+      "release_date": "2021-11-01"
+    },
+    {
+      "product_id": 3,
+      "product_title": "Samsung Galaxy S21",
+      "product_image": "https://i.ibb.co.com/8cbKTQC/Pre-Owned-Samsung-Galaxy-S21-5-G-SM-G991-U1-128-GB-Pink-US-Model-Factory-Unlocked-Cell-Phone-Refurbi.webp",
+      "category": "Phones",
+      "price": "$799",
+      "description": "Samsung's flagship phone with a 120Hz display and excellent camera setup.",
+      "Specification": [
+        "6.2-inch AMOLED display",
+        "Exynos 2100",
+        "8GB RAM",
+        "128GB storage"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "brand": "Samsung",
+      "release_date": "2021-01-29"
+    },
+    {
+      "product_id": 4,
+      "product_title": "Apple Watch Series 7",
+      "product_image": "https://i.ibb.co.com/PrHVLph/71h7r-OVvyg-L-AC-SL1500.jpg",
+      "category": "Smart Watches",
+      "price": "$399",
+      "description": "The latest Apple Watch with improved durability, larger display, and new features.",
+      "Specification": [
+        "1.7-inch OLED display",
+        "S7 chip",
+        "Health sensors",
+        "Water-resistant"
+      ],
+      "availability": true,
+      "rating": 4.9,
+      "brand": "Apple",
+      "release_date": "2021-09-14"
+    },
+    {
+      "product_id": 5,
+      "product_title": "Anker PowerCore 10000",
+      "product_image": "https://i.ibb.co.com/4fhvJmB/2202a558c9c54589c7b5a337210faff1.jpg",
+      "category": "Chargers & Power Banks",
+      "price": "$29.99",
+      "description": "Compact and high-capacity power bank that can charge your devices on the go.",
+      "Specification": [
+        "10000mAh capacity",
+        "USB-A output",
+        "LED battery indicator"
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "brand": "Anker",
+      "release_date": "2020-04-01"
+    },
+
+    {
+        "product_id": 6,
+        "product_title": "Sony WH Headphones",
+        "product_image": "https://i.ibb.co.com/XDVhQgY/106682-original-local-1200x1050-v3-converted.webp",
+        "category": "Accessories",
+        "price": "$348",
+        "description": "Noise-cancelling headphones with premium sound quality.",
+        "Specification": [
+          "Active Noise Cancellation",
+          "30-hour battery life",
+          "Touch control"
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "brand": "Sony",
+        "release_date": "2020-08-06"
+      }
+  ]
+  
