@@ -1,110 +1,219 @@
 [
-    {
+  {
       "product_id": 1,
       "product_title": "Dell XPS 13",
       "product_image": "https://i.ibb.co.com/yPv2PHM/Dell-XPS-13-Plus-in-BD-5.webp",
-      "category": "Computers",
+      "category": "Laptop",
       "price": "$999",
       "description": "A high-performance laptop with a sleek design and powerful hardware.",
       "Specification": [
-        "13.4-inch display",
-        "Intel Core i7",
-        "16GB RAM",
-        "512GB SSD"
+          "13.4-inch display",
+          "Intel Core i7",
+          "16GB RAM",
+          "512GB SSD"
       ],
       "availability": true,
       "rating": 4.7,
       "brand": "Dell",
       "release_date": "2023-05-15"
-    },
-    {
+  },
+  {
       "product_id": 2,
-      "product_title": "MacBook Air",
+      "product_title": "MacBook Air M2",
       "product_image": "https://i.ibb.co.com/gPfg5MP/A1466-1.webp",
-      "category": "Computers",
+      "category": "Laptop",
       "price": "$1199",
       "description": "Apple's ultra-light laptop offering impressive performance and battery life.",
       "Specification": [
-        "13.3-inch Retina display",
-        "Apple M1 Chip",
-        "8GB RAM",
-        "256GB SSD"
+          "13.6-inch Retina display",
+          "Apple M2 Chip",
+          "8GB RAM",
+          "256GB SSD"
       ],
       "availability": true,
       "rating": 4.8,
       "brand": "Apple",
-      "release_date": "2021-11-01"
-    },
-    {
+      "release_date": "2022-07-15"
+  },
+  {
       "product_id": 3,
+      "product_title": "HP Spectre x360",
+      "product_image": "https://i.ibb.co.com/203rdvfb/HP-Spectre-X360-Convertible-14-ef2027-TU-Intel-Core-i7-1355-U-13th-Gen-16-GB-RAM-1-TB-SSD-13-5-Inch.jpg",
+      "category": "Laptop",
+      "price": "$1299",
+      "description": "A premium 2-in-1 laptop with a flexible design and powerful performance.",
+      "Specification": [
+          "14-inch OLED touchscreen",
+          "Intel Core i7",
+          "16GB RAM",
+          "512GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "brand": "HP",
+      "release_date": "2023-03-20"
+  },
+  {
+      "product_id": 4,
+      "product_title": "Asus ROG Zephyrus G14",
+      "product_image": "https://i.ibb.co.com/F4dwMB7L/63513c99def74e5aa17b1166-asus-rog-zephyrus-g14-14.jpg",
+      "category": "Laptop",
+      "price": "$1499",
+      "description": "A powerful gaming laptop with a compact design and great performance.",
+      "Specification": [
+          "14-inch QHD display",
+          "AMD Ryzen 9",
+          "32GB RAM",
+          "1TB SSD"
+      ],
+      "availability": true,
+      "rating": 4.9,
+      "brand": "Asus",
+      "release_date": "2022-12-10"
+  },
+  {
+      "product_id": 5,
+      "product_title": "Lenovo ThinkPad X1 Carbon",
+      "product_image": "https://i.ibb.co.com/d0rT9MCf/1662713320169797778.jpg",
+      "category": "Laptop",
+      "price": "$1799",
+      "description": "A business-class laptop with a lightweight design and long battery life.",
+      "Specification": [
+          "14-inch 4K display",
+          "Intel Core i7",
+          "16GB RAM",
+          "1TB SSD"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "brand": "Lenovo",
+      "release_date": "2023-01-05"
+  },
+  {
+      "product_id": 6,
+      "product_title": "Acer Swift 3",
+      "product_image": "https://i.ibb.co.com/JjryppWm/ACER-7.jpg",
+      "category": "Laptop",
+      "price": "$799",
+      "description": "A budget-friendly ultrabook with solid performance and a lightweight design.",
+      "Specification": [
+          "14-inch FHD display",
+          "Intel Core i5",
+          "8GB RAM",
+          "512GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.4,
+      "brand": "Acer",
+      "release_date": "2022-09-18"
+  },
+  {
+      "product_id": 7,
       "product_title": "Samsung Galaxy S21",
       "product_image": "https://i.ibb.co.com/8cbKTQC/Pre-Owned-Samsung-Galaxy-S21-5-G-SM-G991-U1-128-GB-Pink-US-Model-Factory-Unlocked-Cell-Phone-Refurbi.webp",
       "category": "Phones",
       "price": "$799",
       "description": "Samsung's flagship phone with a 120Hz display and excellent camera setup.",
       "Specification": [
-        "6.2-inch AMOLED display",
-        "Exynos 2100",
-        "8GB RAM",
-        "128GB storage"
+          "6.2-inch AMOLED display",
+          "Exynos 2100",
+          "8GB RAM",
+          "128GB storage"
       ],
       "availability": true,
       "rating": 4.6,
       "brand": "Samsung",
       "release_date": "2021-01-29"
-    },
-    {
-      "product_id": 4,
+  },
+  {
+      "product_id": 8,
       "product_title": "Apple Watch Series 7",
       "product_image": "https://i.ibb.co.com/PrHVLph/71h7r-OVvyg-L-AC-SL1500.jpg",
-      "category": "Smart Watches",
+      "category": "SmartWatch",
       "price": "$399",
       "description": "The latest Apple Watch with improved durability, larger display, and new features.",
       "Specification": [
-        "1.7-inch OLED display",
-        "S7 chip",
-        "Health sensors",
-        "Water-resistant"
+          "1.7-inch OLED display",
+          "S7 chip",
+          "Health sensors",
+          "Water-resistant"
       ],
       "availability": true,
       "rating": 4.9,
       "brand": "Apple",
       "release_date": "2021-09-14"
-    },
-    {
-      "product_id": 5,
+  },
+  {
+      "product_id": 9,
+      "product_title": "Sony WH-1000XM4",
+      "product_image": "https://i.ibb.co.com/pvjpgdZy/Concept-Kart-Sony-WH-1000-XM4-Digital-Noise-Cancellation-Headphone-Black-1-9-d4f350aa-20e4-4f57-8bf4.webp",
+      "category": "Accessories",
+      "price": "$348",
+      "description": "Premium noise-cancelling headphones with crystal-clear sound quality.",
+      "Specification": [
+          "Active Noise Cancellation",
+          "30-hour battery life",
+          "Touch control"
+      ],
+      "availability": true,
+      "rating": 4.9,
+      "brand": "Sony",
+      "release_date": "2020-08-06"
+  },
+  {
+      "product_id": 10,
       "product_title": "Anker PowerCore 10000",
       "product_image": "https://i.ibb.co.com/4fhvJmB/2202a558c9c54589c7b5a337210faff1.jpg",
-      "category": "Chargers & Power Banks",
+      "category": "Accessories",
       "price": "$29.99",
       "description": "Compact and high-capacity power bank that can charge your devices on the go.",
       "Specification": [
-        "10000mAh capacity",
-        "USB-A output",
-        "LED battery indicator"
+          "10000mAh capacity",
+          "USB-A output",
+          "LED battery indicator"
       ],
       "availability": true,
       "rating": 4.5,
       "brand": "Anker",
       "release_date": "2020-04-01"
-    },
-
+  },
+  
     {
-        "product_id": 6,
-        "product_title": "Sony WH Headphones",
-        "product_image": "https://i.ibb.co.com/XDVhQgY/106682-original-local-1200x1050-v3-converted.webp",
-        "category": "Accessories",
-        "price": "$348",
-        "description": "Noise-cancelling headphones with premium sound quality.",
+        "product_id": 11,
+        "product_title": "Samsung Galaxy S24 ultra",
+        "product_image": "https://i.ibb.co.com/DfrtvrWW/download.jpg",
+        "category": "Phones",
+        "price": "$799",
+        "description": "Samsung's flagship phone with a 120Hz display and excellent camera setup.",
         "Specification": [
-          "Active Noise Cancellation",
-          "30-hour battery life",
-          "Touch control"
+            "6.2-inch AMOLED display",
+            "Exynos 2100",
+            "8GB RAM",
+            "128GB storage"
         ],
         "availability": true,
-        "rating": 4.9,
-        "brand": "Sony",
-        "release_date": "2020-08-06"
-      }
-  ]
-  
+        "rating": 4.6,
+        "brand": "Samsung",
+        "release_date": "2021-01-29"
+    },
+    {
+        "product_id": 12,
+        "product_title": "iPhone 13 Pro",
+        "product_image": "https://i.ibb.co.com/gMT3C6PN/detail-iphone13-pro-uh-mag-blk-07.jpg",
+        "category": "Phones",
+        "price": "$999",
+        "description": "Apple's premium phone with a ProMotion display and improved cameras.",
+        "Specification": [
+            "6.1-inch Super Retina XDR display",
+            "A15 Bionic chip",
+            "6GB RAM",
+            "128GB storage"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "brand": "Apple",
+        "release_date": "2021-09-24"
+    }
+]
+
+
