@@ -1,7 +1,9 @@
-Live Link: https://massive-pipe.surge.sh/
+## Live Link: https://massive-pipe.surge.sh/
 
-Requirement Link: Batch-10_Assignment-08.pdf
-Fundamental Concept:
+## Requirement Link: Batch-10_Assignment-08.pdf
+
+## Fundamental Concept:
+
 Functional Components: All components in the project are written as functional components.
 JSX: The project uses JSX syntax for defining UI elements in the React components.
 Props: Props are used to pass data to child components.
@@ -12,12 +14,12 @@ Hooks: Custom and built-in hooks such as useState, useEffect, and useContext.
 Conditional Rendering: Components are rendered based on specific conditions or states.
 Context API: Context API is used for global state management across the application.
 
-Data Handling and Management
+## Data Handling and Management
 For managing and handling data across the project, the following techniques are used:
 
 Context API: Used for managing the state of the shopping cart, wishlist, and user authentication globally across the application.
 
-Features of the GadgetHaven Website
+## Features of the GadgetHaven Website
 Here are 5 key features of the GadgetHaven e-commerce platform:
 
 Product Catalog: Displays all gadgets in various categories with product images, prices, and detailed information.
