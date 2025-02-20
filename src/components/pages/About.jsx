@@ -24,21 +24,21 @@ const About = () => {
           <h2 className="text-2xl font-bold text-[#7C3AED]">Why Choose Us?</h2>
           <ul className="list-none space-y-3 mt-4">
             <li className="flex items-center gap-2">
-              ✅ <span>Wide range of gadgets and accessories</span>
+              <span>Wide range of gadgets and accessories</span>
             </li>
             <li className="flex items-center gap-2">
-              ✅ <span>High-quality and reliable products</span>
+              <span>High-quality and reliable products</span>
             </li>
             <li className="flex items-center gap-2">
-              ✅ <span>Secure payment options</span>
+               <span>Secure payment options</span>
             </li>
             <li className="flex items-center gap-2">
-              ✅ <span>24/7 customer support</span>
+               <span>24/7 customer support</span>
             </li>
           </ul>
         </div>
   
-        {/* Meet Our Team Section */}
+    {/* Meet Our Team Section */}
         <div className="mt-10 bg-[#F5F3FF] p-6 rounded-lg shadow-md text-center">
           <h2 className="text-2xl font-bold text-[#7C3AED]">Meet Our Team</h2>
           <p className="text-gray-700 mt-2">
@@ -47,7 +47,7 @@ const About = () => {
           </p>
         </div>
   
-        {/* Call to Action */}
+        
         <div className="mt-12 text-center">
           <h3 className="text-xl font-semibold text-[#7C3AED]">Join Us on Our Journey!</h3>
           <p className="text-gray-600 mt-2">
