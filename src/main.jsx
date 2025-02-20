@@ -12,6 +12,7 @@ import Home from './components/pages/Home.jsx';
 import Statistics from './components/pages/statistics.jsx';
 import Dashboard from './components/pages/dashboard.jsx';
 import DataDetails from './components/DataDetails/DataDetails.jsx';
+import { CartProvider } from './context/CartContext.jsx';
 
 
 const router = createBrowserRouter([
@@ -44,6 +45,8 @@ const router = createBrowserRouter([
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <RouterProvider router={router} />
+    <CartProvider> {/* ✅ Wrap with CartProvider */}
+      <RouterProvider router={router} />
+    </CartProvider>
   </StrictMode>,
 )
