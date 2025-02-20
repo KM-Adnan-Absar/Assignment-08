@@ -17,6 +17,7 @@ const Dashboard = () => {
 
   return (
     <div className="max-w-5xl mx-auto mt-10 p-6 bg-white shadow-lg rounded-lg">
+ 
       <div className="flex justify-center gap-6 mb-6">
         <button
           onClick={() => setActiveTab("cart")}

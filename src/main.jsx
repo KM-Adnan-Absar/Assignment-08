@@ -13,11 +13,14 @@ import Statistics from './components/pages/statistics.jsx';
 import Dashboard from './components/pages/dashboard.jsx';
 import DataDetails from './components/DataDetails/DataDetails.jsx';
 import { CartProvider } from './context/CartContext.jsx';
+import About from './components/pages/About.jsx';
+import ErrorPage from './components/pages/ErrorPage.jsx';
 
 
 const router = createBrowserRouter([
   {
     path: "/",
+    errorElement: <ErrorPage></ErrorPage>,
     element: <Root></Root>,
     children:[
       {
@@ -37,9 +40,14 @@ const router = createBrowserRouter([
         path:'/data/:id',
         loader:({params}) => fetch(`data.json/${params.id}`),
          element:<DataDetails> </DataDetails>   
-  }
+    },
+    {
+      path: '/about',
+      element: <About></About>
+    }
     ]
   },
+  
 ]);
 
 

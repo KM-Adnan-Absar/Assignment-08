@@ -11,7 +11,9 @@ const DataDetails = () => {
   }
 
   return (
+    
     <div className="flex justify-center items-center min-h-screen bg-gray-100 p-4">
+        
       <div className="bg-white shadow-lg rounded-lg p-6 max-w-3xl w-full">
         {/* Product Image */}
         <img src={product.product_image} alt={product.product_title} className="w-full h-auto object-cover rounded-lg" />
